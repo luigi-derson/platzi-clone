@@ -1,0 +1,5 @@
+.layout-grid {
+  display: grid;
+  grid-template-columns: 220px auto 250px;
+  background-color: var(--main-bg-color);
+}
