@@ -1,12 +1,10 @@
 :root {
-  --main-bg-color: rgb(15, 26, 61);
-  --main-color: #fff;
+  --main-bg-color: #fff;
+  --main-color: #000;
+  --secondary-bg-color: #f6f8fa;
 }
 
-[data-theme="dark"] {
-  --primary-color: #9a97f3;
-  --secondary-color: #818cab;
-  --font-color: #e1e1ff;
-  --bg-color: #161625;
-  --heading-color: #818cab;
+.dark-theme {
+  --main-bg-color: rgb(15, 26, 61);
+  --main-color: #fff;
 }

@@ -1,6 +1,11 @@
 @import-normalize;
 @import "./styles/variables.css";
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",

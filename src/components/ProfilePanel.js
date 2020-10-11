@@ -3,7 +3,9 @@ import React from "react";
 const ProfilePanel = () => {
   return (
     <div>
-      <h1>Profile Panel</h1>
+      <aside>
+        <h1>Profile Panel</h1>
+      </aside>
     </div>
   );
 };
