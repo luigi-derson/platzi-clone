@@ -1,0 +1,21 @@
+.side-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1.5rem;
+}
+
+.side-nav__list {
+  list-style: none;
+  padding-left: 0;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.side-nav__list li {
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+.side-nav__list li a {
+  text-decoration: none;
+}
